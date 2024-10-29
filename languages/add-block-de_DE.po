@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: add-block\n"
+"POT-Creation-Date: 2014-05-07 14:37+0530\n"
+"PO-Revision-Date: 2014-05-07 14:43+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: addblock-admin.php:27
+msgid "Adblock Blocker"
+msgstr "Adblock Blocker"
+
+#: addblock-admin.php:29
+msgid "Total Users Status"
+msgstr "Benutzer insgesamt Stand"
+
+#: addblock-admin.php:30
+msgid "Total users that uses Adblock Add-Ons:"
+msgstr "Anzahl User, die Adblock Add-Ons verwendet:"
+
+#: addblock-admin.php:31
+msgid "User that enable Adblock Add-Ons :"
+msgstr "Benutzer, Adblock Add-Ons aktivieren:"
+
+#: addblock-admin.php:32
+msgid "User that disable Adblock Add-Ons :"
+msgstr "Benutzer, Adblock Add-Ons zu deaktivieren:"
+
+#: addblock-admin.php:38
+msgid "Country User Status"
+msgstr "Land User Status"
+
+#: addblock-admin.php:41
+msgid "Select Country"
+msgstr "Land auswählen"
+
+#: addblock-admin.php:48
+msgid "No Country is selected."
+msgstr "Kein Land wird ausgewählt."
+
+#: addblock-admin.php:55
+msgid "Adblock Blocker Setting"
+msgstr "Adblock Blocker-Einstellung"
+
+#: addblock-admin.php:56
+msgid "Change Pop up Message :"
+msgstr "Ändern Pop up Nachricht:"
+
+#: addblock-admin.php:58
+msgid "Change Pop up Image :"
+msgstr "Ändern Pop up Image:"
+
+#: addblock-admin.php:61
+msgid "Submit"
+msgstr "einreichen"
+
+#: addblock-admin.php:62
+msgid "Restore"
+msgstr "wiederherstellen"
+
+#: addblock.php:40
+msgid "Ad Block Information"
+msgstr "Adblock Informationen"
+
+#: getcountryuser.php:10
+msgid "No Country is selected"
+msgstr "Kein Land ausgewählt wird"
+
+#: getcountryuser.php:21
+msgid "Total users that uses Add-ons :-"
+msgstr "NoTotal Benutzer, die Add-ons verwendet: -"
+
+#: getcountryuser.php:22
+msgid "Only Add-ons user :-"
+msgstr "Nur Add-ons-Benutzer: -"
+
+#: getcountryuser.php:23
+msgid "User that disable Add-ons:-"
+msgstr "Benutzer, die Add-ons zu deaktivieren: -"
+
+#~ msgid "AdBlock Plugin Status"
+#~ msgstr "AdBlock Plugin-Status"
+
+#~ msgid "Select the country to view total number of site viewers"
+#~ msgstr ""
+#~ "Wählen Sie das Land auf die Gesamtzahl der Zuschauer vor Ort ansehen"
